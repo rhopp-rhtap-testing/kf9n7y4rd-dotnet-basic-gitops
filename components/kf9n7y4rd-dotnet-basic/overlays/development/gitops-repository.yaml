@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kf9n7y4rd-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/kf9n7y4rd-dotnet-basic-gitops
